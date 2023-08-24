@@ -49,6 +49,7 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 
 - **Build tools:** GulpJS & GruntJS
 - **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
+- **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
 - **Cryptocurrencies:** Bitcoin Protocol
 - **Misc:** VS Code, Figma & Jupyter Notebooks
 
