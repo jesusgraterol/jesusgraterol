@@ -24,21 +24,42 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 - NodeJS
 - ExpressJS
 - Inversify
+- Flask & Waitress
 - GraphQL
 - OpenAPI Specification
 
 
 #### Databases
 
-- @TODO
+- **SQL:** PostgresQL & MySQL
+- **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore & MongoDB
+- **Key-value:** LevelDB, SQLite & Redis
 
   
 #### Infrastructure
 
-- @TODO
+- Git
+- Docker
+- Kubernetes
+- Nginx
+- Unix-like Operating Systems / GNU Bash
 
+
+#### Build Tools
+
+- GulpJS
+- GruntJS
+  
+  
+#### Unit tests
+
+- Jasmine
+- Karma
+- Jest
+- Python's built-in testing framework (unittest)
+  
 
 ## Contact
 - [Twitter](https://twitter.com/jesusgrat_dev)
-- [LinkedIn](https://www.linkedin.com/in/jesus-graterol/)
 - [Kaggle](https://www.kaggle.com/jesusgraterol)
+- [LinkedIn](https://www.linkedin.com/in/jesus-graterol/)
