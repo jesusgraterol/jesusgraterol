@@ -32,32 +32,26 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 #### Databases
 
 - **SQL:** PostgresQL & MySQL
-- **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore & MongoDB
+- **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore, MongoDB & IndexedDB
 - **Key-value:** LevelDB, SQLite & Redis
 
   
 #### Infrastructure
 
 - Git
-- Docker
+- Docker & Docker Compose
 - Kubernetes
 - Nginx
 - Unix-like Operating Systems / GNU Bash
 
-
-#### Build Tools
-
-- GulpJS
-- GruntJS
   
-  
-#### Unit tests
+#### Other
 
-- Jasmine
-- Karma
-- Jest
-- Python's built-in testing framework (unittest)
-  
+- **Build tools:** GulpJS & GruntJS
+- **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
+- **Cryptocurrencies:** Bitcoin Protocol
+- **Misc:** VS Code, Figma & Jupyter Notebooks
+
 
 ## Contact
 - [Twitter](https://twitter.com/jesusgrat_dev)
