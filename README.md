@@ -40,7 +40,6 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 
 - Git
 - Docker & Docker Compose
-- Kubernetes
 - Nginx
 - Unix-like Operating Systems / GNU Bash
 
