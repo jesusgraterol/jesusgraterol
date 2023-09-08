@@ -16,8 +16,7 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 - Angular
 - React / NextJS
 - Tailwind CSS
-- Ionic
-- Electron
+- Ionic / Capacitor
 
 #### Back-end
 
@@ -33,7 +32,7 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 
 - **SQL:** PostgresQL & MySQL
 - **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore, MongoDB & IndexedDB
-- **Key-value:** LevelDB, SQLite & Redis
+- **Key-value:** SQLite3
 
   
 #### Infrastructure
