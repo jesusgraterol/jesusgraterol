@@ -1,6 +1,11 @@
 ## Hi! My name is Jesus Graterol
 
-I'm a Software Engineer with 7+ years of experience in building scalable web applications and RESTful APIs. I'm also proficient in data science and machine learning engineering.
+I am a skilled Software Engineer with 7+ years of experience in developing scalable web applications, RESTful APIs, and data-driven solutions. 
+
+My proficiency extends to data science and machine learning engineering, enabling me to create innovative software that empowers businesses in the digital era.
+
+I am a natural problem solver. I can identify and analyze complex problems quickly and efficiently, reducing them into smaller, more manageable pieces. My keen attention to detail allows me to come up with creative solutions, and identify and fix errors in a timely and professional manner.
+
 
 ## Tech stack
 
@@ -30,7 +35,7 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 
 #### Databases
 
-- **SQL:** PostgresQL & MySQL
+- **SQL:** PostgreSQL & MySQL
 - **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore, MongoDB & IndexedDB
 - **Key-value:** SQLite3
 
@@ -40,6 +45,7 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 - Git
 - Docker & Docker Compose
 - Unix-like Operating Systems / GNU Bash
+- Secure Shell Protocol (SSH)
 - Nginx
 
   
@@ -53,6 +59,6 @@ I'm a Software Engineer with 7+ years of experience in building scalable web app
 
 
 ## Contact
-- [Twitter](https://twitter.com/jesusgrat_dev)
-- [Kaggle](https://www.kaggle.com/jesusgraterol)
 - [LinkedIn](https://www.linkedin.com/in/jesus-graterol/)
+- [Kaggle](https://www.kaggle.com/jesusgraterol)
+- [Twitter](https://twitter.com/jesusgrat_dev)
