@@ -51,7 +51,7 @@ I am a natural problem solver. I can identify and analyze complex problems quick
   
 #### Other
 
-- **Libraries:** RxJS, GulpJS & GruntJS
+- **Build Tools:** GulpJS & GruntJS
 - **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
 - **Cryptocurrencies:** Bitcoin Protocol
