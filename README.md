@@ -28,7 +28,7 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 - NodeJS
 - ExpressJS
 - Inversify
-- Flask & Waitress
+- Flask / Waitress
 - GraphQL
 - OpenAPI Specification
 
@@ -43,7 +43,7 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 #### Infrastructure
 
 - Git
-- Docker & Docker Compose
+- Docker / Docker Compose
 - Unix-like Operating Systems / GNU Bash
 - Secure Shell Protocol (SSH)
 - Nginx
