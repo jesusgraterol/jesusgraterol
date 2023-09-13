@@ -29,7 +29,6 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 - ExpressJS
 - Inversify
 - Flask / Waitress
-- GraphQL
 - OpenAPI Specification
 
 
