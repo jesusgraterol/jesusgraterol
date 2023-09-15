@@ -53,7 +53,7 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 - **Build Tools:** GulpJS & GruntJS
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
 - **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
-- **Misc:** VS Code, RxJS, RegEx, Bitcoin Protocol, Postman, Figma & Jupyter Notebooks
+- **Misc:** VS Code, RxJS, Bitcoin Protocol, Postman, Figma & Jupyter Notebooks
 
 
 ## Contact
