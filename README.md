@@ -27,7 +27,7 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 
 - NodeJS
 - ExpressJS
-- Inversify
+- InversifyJS
 - Flask / Waitress
 - OpenAPI Specification
 
@@ -51,10 +51,9 @@ I am a natural problem solver. I can identify and analyze complex problems quick
 #### Other
 
 - **Build Tools:** GulpJS & GruntJS
-- **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
-- **Cryptocurrencies:** Bitcoin Protocol
-- **Misc:** VS Code, Postman, Figma & Jupyter Notebooks
+- **Unit tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
+- **Misc:** VS Code, RxJS, RegEx, Bitcoin Protocol, Postman, Figma & Jupyter Notebooks
 
 
 ## Contact
