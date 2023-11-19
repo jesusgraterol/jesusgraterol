@@ -1,59 +1,68 @@
 ## Hi! My name is Jesus Graterol
 
-I am a skilled Software Engineer with 7+ years of experience in developing scalable web applications, RESTful APIs, and data-driven solutions. 
+I am a skilled Full-Stack Web Developer with 7+ years of experience in building scalable web applications and REST/GraphQL based APIs.
 
-My proficiency extends to data science and machine learning engineering, enabling me to create innovative software that empowers businesses in the digital era.
+My proficiency extends to data science, allowing me to create and serve complex machine learning models over the Internet.
 
-I am a natural problem solver. I can identify and analyze complex problems quickly and efficiently, reducing them into smaller, more manageable pieces. My keen attention to detail allows me to come up with creative solutions, and identify and fix errors in a timely and professional manner.
+I am a problem-solver with keen attention to detail, adept at identifying and resolving complex issues promptly and professionally.
 
 
 ## Tech stack
+
+
 
 #### Programming Languages
 
 - HTML5
 - CSS3
-- Javascript / Typescript
+- JavaScript / TypeScript
 - Python
+
 
 #### Front-end
 
 - Angular
 - React / NextJS
-- Tailwind CSS
+- MaterialDesign / Bootstrap / TailwindCSS
 - Ionic / Capacitor
+- React Native
+
 
 #### Back-end
 
 - NodeJS
 - ExpressJS
-- InversifyJS
+- NestJS
 - Flask / Waitress
-- OpenAPI Specification
+- Django
+- GraphQL
 
 
 #### Databases
 
-- **SQL:** PostgreSQL & MySQL
-- **NoSQL:** Firebase Realtime Database, Firebase Cloud Firestore, MongoDB & IndexedDB
-- **Key-value:** SQLite3
+- PostgreSQL / MySQL
+- MongoDB 
+- Firebase Realtime Database
+- IndexedDB
 
   
 #### Infrastructure
 
-- Git
-- Docker / Docker Compose
 - Unix-like Operating Systems / GNU Bash
-- Secure Shell Protocol (SSH)
-- Nginx
+- GIT
+- SSH
+- CI/CD
+- Docker / Docker Compose
+- Kubernetes
+- Monolithic Architecture & Microservices
 
-  
+
 #### Other
 
-- **Build Tools:** GulpJS & GruntJS
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
-- **Unit Tests:** Jasmine, Karma, Jest & Python's built-in testing framework (unittest)
-- **Misc:** VS Code, RxJS, Bitcoin Protocol, Postman, Figma & Jupyter Notebooks
+- **Test Runners:** Jest, Jasmine, Karma & Python's built-in testing framework (unittest)
+- **Bundlers:** Webpack, Vite, esbuild
+- **Misc:** VS Code, GulpJS, RxJS, PassportJS, InversifyJS, OpenAPI Specification, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow & Jupyter Notebooks
 
 
 ## Contact
