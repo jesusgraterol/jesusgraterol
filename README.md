@@ -19,7 +19,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - Python
 
 
-#### Front-end
+#### Front-End
 
 - Angular
 - React / NextJS
@@ -28,7 +28,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - React Native
 
 
-#### Back-end
+#### Back-End
 
 - NodeJS
 - ExpressJS
