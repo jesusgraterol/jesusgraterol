@@ -51,7 +51,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - Unix-like Operating Systems / GNU Bash
 - GIT
 - SSH
-- CI/CD
+- CI / CD
 - Docker / Docker Compose
 - Kubernetes
 
