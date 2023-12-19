@@ -48,7 +48,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
   
 #### Infrastructure
 
-- Unix-like Operating Systems / GNU Bash
+- UNIX-like Operating Systems / GNU Bash
 - GIT
 - SSH
 - CI / CD
