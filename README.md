@@ -53,7 +53,6 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - SSH
 - CI / CD
 - Docker / Docker Compose
-- Kubernetes
 
 
 #### Other
@@ -61,7 +60,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
 - **Test Runners:** Jest, Jasmine, Karma & Python's built-in testing framework (unittest)
 - **Bundlers:** Webpack, Vite, esbuild
-- **Misc:** VS Code, GulpJS, RxJS, PassportJS, InversifyJS, Monolithic Architecture, Microservices, OpenAPI Specification, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow & Jupyter Notebooks
+- **Misc:** VS Code, GulpJS, RxJS, PassportJS, InversifyJS, OpenAPI Specification, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow & Jupyter Notebooks
 
 
 ## Contact
