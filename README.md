@@ -26,6 +26,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - Material Design / Bootstrap / TailwindCSS
 - Ionic / Capacitor
 - React Native
+- Web API
 
 
 #### Back-End
