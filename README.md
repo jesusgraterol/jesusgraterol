@@ -1,6 +1,6 @@
 ## Hi! My name is Jesus Graterol
 
-I am a skilled Full-Stack Web Developer with 7+ years of experience in building scalable web applications and REST/GraphQL based APIs.
+I am a skilled Full-Stack Web Developer with 7+ years of experience in building scalable web applications and REST-based APIs.
 
 My proficiency extends to data science, allowing me to create and serve complex machine learning models over the Internet.
 
@@ -23,9 +23,8 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 - Angular
 - React / NextJS
-- Material Design / Bootstrap / TailwindCSS
+- Material Design / Bootstrap
 - Ionic / Capacitor
-- React Native
 - Web API
 
 
@@ -36,7 +35,6 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - NestJS
 - Flask / Waitress
 - Django
-- GraphQL
 
 
 #### Databases
