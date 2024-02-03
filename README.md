@@ -22,7 +22,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 #### Front-End
 
 - Angular
-- React / NextJS
+- React
 - Material Design / Bootstrap
 - Ionic / Capacitor
 - Web API
@@ -57,9 +57,9 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 #### Other
 
 - **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
-- **Test Runners:** Jest, Jasmine, Karma & Python's built-in testing framework (unittest)
+- **Test Runners:** Jest, Jasmine, Karma, unittest (Python's built-in) & PyTest
 - **Bundlers:** Webpack, Vite, esbuild
-- **Misc:** VS Code, GulpJS, RxJS, PassportJS, InversifyJS, OpenAPI Specification, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow & Jupyter Notebooks
+- **Misc:** VS Code, RxJS, NgRx, Redux, NextJS, PassportJS, InversifyJS, OpenAPI Specification, GulpJS, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow, Keras & Jupyter Notebooks
 
 
 ## Contact
