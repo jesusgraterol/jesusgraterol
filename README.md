@@ -32,7 +32,6 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 - NodeJS
 - ExpressJS
-- NestJS
 - Flask / Waitress
 - Django
 
@@ -50,8 +49,8 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - UNIX-like Operating Systems / GNU Bash
 - GIT
 - SSH
+- Docker
 - CI / CD
-- Docker / Docker Compose
 
 
 #### Other
