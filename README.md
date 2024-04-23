@@ -1,6 +1,6 @@
 ## Hi! My name is Jesus Graterol
 
-I am a skilled Full-Stack Web Developer with 7+ years of experience in building scalable web applications and REST-based APIs.
+I am a skilled Full-Stack Web Developer with 8+ years of experience in building scalable web applications and REST-based APIs.
 
 My proficiency extends to data science, allowing me to create and serve complex machine learning models over the Internet.
 
@@ -13,8 +13,8 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 #### Programming Languages
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript / TypeScript
 - Python
 
@@ -23,30 +23,29 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 - Angular
 - React
-- Material Design / Bootstrap
-- Ionic / Capacitor
+- Material Design / Bootstrap / Ionic / Tailwind CSS
 - Web API
 
 
 #### Back-End
 
-- NodeJS
-- ExpressJS
-- Flask / Waitress
+- Node.js
+- Express.js
+- Flask
 - Django
 
 
 #### Databases
 
-- PostgreSQL / MySQL
-- MongoDB 
-- Firebase Realtime Database
-- IndexedDB
+- PostgreSQL
+- MySQL
+- Firebase (Realtime Database / Cloud Firestore)
+- IndexedDB (idb / Dexie.js)
 
   
 #### Infrastructure
 
-- UNIX-like Operating Systems / GNU Bash
+- UNIX-like OS / GNU Bash
 - GIT
 - SSH
 - Docker
@@ -55,10 +54,11 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 #### Other
 
-- **Firebase Suite:** Authentication, Storage, Hosting & Cloud Messaging
-- **Test Runners:** Jest, Jasmine, Karma, unittest (Python's built-in) & PyTest
-- **Bundlers:** Webpack, Vite, esbuild
-- **Misc:** VS Code, RxJS, NgRx, Redux, NextJS, PassportJS, InversifyJS, OpenAPI Specification, GulpJS, Nginx, Postman, Figma, Bitcoin Protocol, Pandas, NumPy, TensorFlow, Keras & Jupyter Notebooks
+- **Test Runners:** Vitest, Jest, Jasmine, unittest (Python's built-in) & PyTest
+- **Bundlers:** Vite, esbuild, Webpack
+- **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
+- **Data Science:** NumPy, Pandas, Keras & TensorFlow
+- **Misc:** InversifyJS, RxJS, Socket.IO, Redux, Postman, Figma & The Bitcoin Protocol
 
 
 ## Contact
