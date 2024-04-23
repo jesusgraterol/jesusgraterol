@@ -1,6 +1,6 @@
 ## Hi! My name is Jesus Graterol
 
-I am a skilled Full-Stack Web Developer with 8+ years of experience in building scalable web applications and REST-based APIs.
+I am a skilled Full-Stack Web Developer with 9+ years of experience in building scalable web applications and REST-based APIs.
 
 My proficiency extends to data science, allowing me to create and serve complex machine learning models over the Internet.
 
