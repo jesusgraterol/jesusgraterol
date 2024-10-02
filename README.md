@@ -23,7 +23,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 
 - Angular
 - React
-- TailwindCSS
+- Tailwind CSS
 - shadcn / Material / Bootstrap / Ionic
 - Web API
 
