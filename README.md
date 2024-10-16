@@ -60,9 +60,3 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
 - **Data Science:** NumPy, Pandas, Keras & TensorFlow
 - **Misc:** Zod, Redux, React Router, JWT, RxJS, Socket.IO, InversifyJS, Postman, Figma & The Bitcoin Protocol
-
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/jesus-graterol/)
-- [Kaggle](https://www.kaggle.com/jesusgraterol)
-- [Twitter](https://twitter.com/jesusgrat_dev)
