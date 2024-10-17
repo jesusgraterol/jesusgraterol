@@ -59,4 +59,4 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - **Bundlers:** Vite, esbuild, Webpack
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
 - **Data Science:** NumPy, Pandas, Keras & TensorFlow
-- **Misc:** Zod, Redux, React Router, JWT, RxJS, Socket.IO, InversifyJS, Postman, Figma & The Bitcoin Protocol
+- **Misc:** Zod, Redux, Zustand, React Router, JWT, RxJS, Socket.IO, InversifyJS, Postman, Figma & The Bitcoin Protocol
