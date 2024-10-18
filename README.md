@@ -47,7 +47,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 #### Infrastructure
 
 - UNIX-like OS / GNU Bash
-- GIT
+- Git
 - SSH
 - Docker
 - CI / CD
