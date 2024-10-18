@@ -2,7 +2,7 @@
 
 I am a skilled Full-Stack Web Developer with 10+ years of experience in building scalable web applications and REST-based APIs.
 
-My proficiency extends to data science, allowing me to create and serve complex machine learning models over the Internet.
+My proficiency extends to data science, allowing me to train and serve complex machine learning models over the Internet.
 
 I am a problem-solver with keen attention to detail, adept at identifying and resolving complex issues promptly and professionally.
 
