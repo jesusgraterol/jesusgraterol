@@ -17,6 +17,7 @@ I am a problem-solver with keen attention to detail, adept at identifying and re
 - CSS
 - JavaScript / TypeScript
 - Python
+- SQL
 
 
 #### Front-End
