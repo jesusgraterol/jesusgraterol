@@ -4,7 +4,7 @@ I am a Full-Stack Web Developer with 10+ years of experience building scalable w
 
 My proficiency extends to data science, allowing me to train and serve complex machine learning models over the Internet.
 
-I am a problem-solver with keen attention to detail, adept at identifying and resolving complex issues promptly and professionally.
+As a problem solver with meticulous attention to detail, I'm adept at identifying and resolving intricate challenges quickly and efficiently.
 
 
 ## Tech Stack
