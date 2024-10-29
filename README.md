@@ -51,7 +51,6 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - Git
 - SSH
 - Docker
-- CI / CD
 
 
 #### Other
