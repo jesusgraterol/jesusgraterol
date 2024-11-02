@@ -49,7 +49,6 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 
 - UNIX-like OS / GNU Bash
 - Git
-- SSH
 - Docker
 
 
