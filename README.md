@@ -58,4 +58,4 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - **Bundlers:** Vite, esbuild, Webpack
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
 - **Data Science:** NumPy, Pandas, Keras & TensorFlow
-- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Postman, Figma & The Bitcoin Protocol
+- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Postman, Strapi, Figma & The Bitcoin Protocol
