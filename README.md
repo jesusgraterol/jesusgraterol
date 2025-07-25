@@ -1,15 +1,12 @@
 ## Hi! My name is Jesus Graterol
 
-I am a Web Developer with 10+ years of experience building scalable web applications and REST-based APIs.
+I’m a Web Developer with 10+ years of experience, specializing in scalable, high-performance solutions, including web applications, RESTful APIs, and database architectures.
 
 My proficiency extends to data science, allowing me to train and serve complex machine learning models over the Internet.
 
 As a problem solver with meticulous attention to detail, I'm adept at identifying and resolving intricate challenges quickly and efficiently.
 
-
 ## Tech Stack
-
-
 
 #### Programming Languages
 
@@ -19,7 +16,6 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - Python
 - SQL
 
-
 #### Front-End
 
 - Angular
@@ -28,14 +24,12 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - shadcn / Material / Bootstrap / Ionic
 - Web API
 
-
 #### Back-End
 
 - Node.js
 - Express.js
 - Flask
 - Django
-
 
 #### Databases
 
@@ -44,13 +38,11 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - Firebase (Realtime Database / Cloud Firestore)
 - IndexedDB (idb / Dexie.js)
 
-  
 #### Infrastructure
 
 - UNIX-like OS / GNU Bash
 - Git
 - Docker
-
 
 #### Other
 
