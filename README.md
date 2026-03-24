@@ -28,6 +28,7 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 
 - Node.js
 - Express.js
+- NestJS
 - Flask
 - Django
 
@@ -35,6 +36,7 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 
 - PostgreSQL
 - MySQL
+- Redis
 - Firebase (Realtime Database / Cloud Firestore)
 - IndexedDB (idb / Dexie.js)
 
@@ -43,11 +45,12 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - UNIX-like OS / GNU Bash
 - Git
 - Docker
+- Google Cloud Platform (GCP)
 
 #### Other
 
 - **Test Runners:** Vitest, Jest, Jasmine, unittest (Python's built-in) & PyTest
 - **Bundlers:** Vite, esbuild, Webpack
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
-- **Data Science:** NumPy, Pandas, Keras & TensorFlow
-- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Postman, Strapi, Figma & The Bitcoin Protocol
+- **Data Science & AI:** NumPy, Pandas, Keras, TensorFlow & OpenAI API Platform
+- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Prisma, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Pydantic, Stripe, RevenueCat, Auth0, Postman, Strapi, Figma & The Bitcoin Protocol
