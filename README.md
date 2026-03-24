@@ -6,9 +6,9 @@ My proficiency extends to data science, allowing me to train and serve complex m
 
 As a problem solver with meticulous attention to detail, I'm adept at identifying and resolving intricate challenges quickly and efficiently.
 
-## Tech Stack
+## Tech stack
 
-#### Programming Languages
+#### Programming languages
 
 - HTML
 - CSS
@@ -16,7 +16,7 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - Python
 - SQL
 
-#### Front-End
+#### Frontend
 
 - Angular
 - React
@@ -24,13 +24,21 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - shadcn / Material / Bootstrap / Ionic
 - Web API
 
-#### Back-End
+#### Backend
 
 - Node.js
 - Express.js
 - NestJS
 - Flask
 - Django
+
+#### Data science & AI
+
+- NumPy
+- Pandas
+- Keras
+- TensorFlow
+- OpenAI API Platform
 
 #### Databases
 
@@ -52,5 +60,4 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - **Test Runners:** Vitest, Jest, Jasmine, unittest (Python's built-in) & PyTest
 - **Bundlers:** Vite, esbuild, Webpack
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
-- **Data Science & AI:** NumPy, Pandas, Keras, TensorFlow & OpenAI API Platform
 - **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Prisma, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Pydantic, Stripe, RevenueCat, Auth0, Postman, Strapi, Figma & The Bitcoin Protocol
