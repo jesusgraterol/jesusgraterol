@@ -60,4 +60,4 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 - **Test runners:** Vitest, Jest, Jasmine, unittest (Python's built-in) & PyTest
 - **Bundlers:** Vite, esbuild, Webpack
 - **Firebase:** Authentication, Realtime Database, Cloud Firestore, Storage, Cloud Messaging, Security Rules & Hosting
-- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Prisma, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Pydantic, Stripe, RevenueCat, Auth0, Postman, Strapi, Figma & The Bitcoin Protocol
+- **Misc:** Zod, Next.js, React Router, Redux, Zustand, TanStack Query, React Hook Form, Prisma, Drizzle, JWT, Socket.IO, RxJS, InversifyJS, Pydantic, Stripe, RevenueCat, Strapi, Auth0, Retool, Postman, Figma & The Bitcoin Protocol
